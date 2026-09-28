@@ -169,7 +169,8 @@ Polaris Dance 是一套「主题 → 成品 PPT」的 Agent：给一句话主题
 </tr>
 </table>
 
-- 📄 [Polaris Dance 版：`4-redis.pdf`](result/4-redis.pdf)（8 页 · 7.8 MB）
+- 📄 [Polaris Dance 版：`4-redis.pdf`](result/4-redis.pdf)（8 页 · 10.4 MB）
+- 🔁 本册为 2026-09-26 用当前版本重跑，推理档位 low（其余三册仍是 09-07 的旧版）
 - 📄 [豆包版：`4-redis-豆包.pdf`](compare/4-redis-豆包.pdf)（8 页 · 2.2 MB）
 
 ---
@@ -193,7 +194,7 @@ polaris-dance/
 │   ├── 1-春.pdf        语文 · 朱自清《春》（8 页 · 17.9 MB）
 │   ├── 2-数学.pdf      数学 · y = sin x 图像与性质（8 页 · 12.5 MB）
 │   ├── 3-物理.pdf      物理 · 力（8 页 · 13.9 MB）
-│   └── 4-redis.pdf     后端 · Redis 缓存三大故障（8 页 · 7.8 MB）
+│   └── 4-redis.pdf     后端 · Redis 缓存穿透 / 击穿 / 雪崩（8 页 · 10.4 MB · 09-26 重跑）
 ├── compare/       豆包同主题生成结果（对照组，8 页 × 4 份）
 │   └── *-豆包.pdf
 ├── preview/       README 内嵌展示用的页面预览图（含两份封面横图 hero-*.jpg）
