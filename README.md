@@ -168,7 +168,7 @@ Polaris Dance 是一套「主题 → 成品 PPT」的 Agent：给一句话主题
 </tr>
 </table>
 
-- 📄 [Polaris Dance 版：`3-物理.pdf`](result/3-物理.pdf)（8 页 · 15.2 MB）
+- 📄 [Polaris Dance 版：`3-物理.pdf`](result/3-物理.pdf)（8 页 · 15.5 MB）
 - 📄 [豆包版：`3-物理-豆包.pdf`](compare/3-物理-豆包.pdf)（8 页 · 2.1 MB）
 - 📄 [Claude Opus 5.5 版：`3-物理-opus5.5.pdf`](compare/3-物理-opus5.5.pdf)（8 页 · 0.9 MB）
 
@@ -230,7 +230,7 @@ polaris-dance/
 ├── result/        Polaris Dance 生成结果（Qwen3.7-Plus + Wan2.7-Image-Pro · 推理程度 low）
 │   ├── 1-春.pdf        语文 · 朱自清《春》（8 页 · 16.3 MB）
 │   ├── 2-数学.pdf      数学 · y = sin x 图像与性质（8 页 · 10.0 MB）
-│   ├── 3-物理.pdf      物理 · 力（8 页 · 15.2 MB）
+│   ├── 3-物理.pdf      物理 · 力（8 页 · 15.5 MB）
 │   └── 4-redis.pdf     后端 · Redis 缓存穿透 / 击穿 / 雪崩（8 页 · 10.4 MB）
 ├── compare/       对照组：豆包、Claude Opus 5.5 同主题生成结果（各 8 页 × 4 份）
 │   ├── *-豆包.pdf
