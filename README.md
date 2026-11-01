@@ -11,11 +11,15 @@
 
 ## 🎬 演示视频：一句话做出一份课件，再一句话改好
 
+
+https://github.com/user-attachments/assets/b6f2a6b3-5b67-4841-a0b2-c14a612d7c92
+
+
 <p align="center">
   <a href="demo/demo.mp4?raw=true"><img src="demo/poster.jpg" width="860" alt="点击观看演示视频"/></a>
 </p>
 
-视频里发生了什么（3 倍速，共 3 分 8 秒；点上图播放，或[下载 mp4](demo/demo.mp4?raw=true)）：
+视频里发生了什么（3 倍速；点上图播放，或[下载 mp4](demo/demo.mp4?raw=true)）：
 
 | 时间 | 用户做了什么 | Agent 做了什么 |
 | --- | --- | --- |
@@ -283,9 +287,9 @@
 
 | 环节 | 模型 |
 | --- | --- |
-| 理解需求、大纲、写文稿、设计每一页 | **Qwen3.7-Plus**（推理程度 low） |
+| 理解需求、大纲、文稿、设计 | **Qwen3.7-Plus**（推理程度 low） |
 | 配图、底图 | **Wan2.7-Image-Pro** / Wan2.7-Image |
-| 修改 Agent（听懂改哪几页、改什么） | **Qwen3.8-Flash** |
+| 意图识别 （听懂改哪几页、改什么） | **Qwen3.8-Flash** |
 
 ## 🗂️ 仓库结构
 
