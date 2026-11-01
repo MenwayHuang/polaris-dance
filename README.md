@@ -274,7 +274,7 @@ https://github.com/user-attachments/assets/b6f2a6b3-5b67-4841-a0b2-c14a612d7c92
 </tr>
 </table>
 
-原文件：[Polaris Dance 版 `4-redis.pdf`](result/4-redis.pdf)（10.4 MB）· [豆包版 `4-redis-豆包.pdf`](compare/4-redis-豆包.pdf)（2.2 MB）· [Claude Opus 5.5 版 `4-redis-opus5.5.pdf`](compare/4-redis-opus5.5.pdf)（1.1 MB）
+原文件：[Polaris Dance 版 `4-redis.pdf`](result/4-redis.pdf)（12.3 MB）· [豆包版 `4-redis-豆包.pdf`](compare/4-redis-豆包.pdf)（2.2 MB）· [Claude Opus 5.5 版 `4-redis-opus5.5.pdf`](compare/4-redis-opus5.5.pdf)（1.1 MB）
 
 ---
 
