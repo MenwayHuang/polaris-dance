@@ -14,7 +14,7 @@
 
 https://github.com/user-attachments/assets/b6f2a6b3-5b67-4841-a0b2-c14a612d7c92
 
-视频里发生了什么（3 倍速；点上图播放，或[下载 mp4](demo/demo.mp4?raw=true)）：
+视频里发生了什么（3 倍速；点上图播放）：
 
 | 时间 | 用户做了什么 | Agent 做了什么 |
 | --- | --- | --- |
