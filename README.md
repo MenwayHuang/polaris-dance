@@ -1,5 +1,11 @@
 <h1 align="center">Polaris Dance</h1>
 
+<p align="center">
+  <a href="https://giphy.com/gifs/kirby-nintendo-dance-l0HlIDueXmcWNTPO0">
+    <img src="https://media.giphy.com/media/l0HlIDueXmcWNTPO0/200.gif" width="160" height="120" alt="星之卡比跳舞（动画作者 Kéké）">
+  </a>
+</p>
+
 <p align="center"><strong>一句话做课件，再一句话改课件。</strong></p>
 
 <p align="center">
