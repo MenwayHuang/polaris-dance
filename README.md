@@ -9,55 +9,63 @@
 <p align="center"><strong>一句话做课件，再一句话改课件。</strong></p>
 
 <p align="center">
-  本项目当前垂直于教育领域，可输入主题，确认大纲，生成整份演示文稿。做完可以用对话修改指定页面，再导出 PPTX 或 PDF。
+  面向教学的 PPT Agent，支持生成课件、对话改页和导出 PPTX / PDF。
 </p>
 
 <p align="center">
-  <a href="https://polarisdance.online/"><strong>在线体验 ↗</strong></a>
-  · <a href="#课件示例">看课件示例</a>
-  · <a href="#完整演示">看完整演示</a>
+  <a href="https://polarisdance.online/"><img src="assets/try-online.png" width="122" height="36" align="middle" alt="在线体验 Polaris Dance"></a>
+  &nbsp; <a href="#课件示例">看课件示例</a>
+  &nbsp; · &nbsp; <a href="#完整演示">看完整演示</a>
 </p>
 
 <p align="center">
   <a href="#课件示例">
-    <img src="preview/hero-ours.jpg" alt="Polaris Dance 生成的四份课件封面：《春》、正弦函数、力学第一课和 Redis 缓存故障">
+    <img src="assets/education-showcase.webp" width="962" alt="Polaris Dance 生成的教育课件，《春》的水彩封面居左，右侧依次是正弦函数与力学第一课">
   </a>
 </p>
 
 ## 从主题生成 PPT
 
 <table>
-  <tr>
-    <td valign="top" width="50%">
-      <a href="result/1-春.pdf"><img src="preview/1-spring/ours-1.jpg" width="360" alt="《春》课件的水彩山水封面"></a>
-      <p><strong>一句主题</strong></p>
-      <p>给初一学生讲朱自清的《春》</p>
-      <p><a href="result/1-春.pdf">查看《春》课件 PDF ↗</a></p>
-    </td>
-    <td valign="top" width="50%">
-      <a href="result/2-数学.pdf"><img src="preview/2-sine/ours-2.jpg" width="360" alt="正弦函数课件中用曲线演示五点作图法的一页"></a>
-      <p><strong>完整要求</strong></p>
-      <p>给高一学生讲正弦函数，配图讲解五点作图法等知识点。</p>
-      <p><a href="result/2-数学.pdf">查看正弦函数课件 PDF ↗</a></p>
-      <details>
-        <summary>展开原始提示词</summary>
-        <blockquote>给高一学生讲一节课：正弦函数 y=sin x 的图像与性质。要讲清楚五点作图法、周期性、奇偶性、单调区间和最值，配合图像来讲</blockquote>
-      </details>
-    </td>
-  </tr>
+  <thead>
+    <tr>
+      <th width="50%">一句主题</th>
+      <th width="50%">完整要求</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td valign="top">「给初一学生讲朱自清的《春》」</td>
+      <td valign="top">「给高一学生讲一节课：正弦函数 y=sin x 的图像与性质。……」</td>
+    </tr>
+    <tr>
+      <td valign="top">
+        <a href="result/1-春.pdf"><img src="preview/1-spring/ours-1.jpg" width="380" alt="《春》课件的水彩山水封面"></a>
+        <p><a href="result/1-春.pdf">看《春》的完整 PDF</a></p>
+      </td>
+      <td valign="top">
+        <a href="result/2-数学.pdf"><img src="preview/2-sine/ours-2.jpg" width="380" alt="正弦函数课件中用曲线演示五点作图法的一页"></a>
+        <p><a href="result/2-数学.pdf">看正弦函数的完整 PDF</a></p>
+        <details>
+          <summary>展开原始提示词</summary>
+          <blockquote>给高一学生讲一节课：正弦函数 y=sin x 的图像与性质。要讲清楚五点作图法、周期性、奇偶性、单调区间和最值，配合图像来讲</blockquote>
+        </details>
+      </td>
+    </tr>
+  </tbody>
 </table>
 
 ## 一句话修改指定页
 
-《力学第一课》生成后，在对话里提出修改。
+《力学第一课》生成后，用户在对话中指定修改第 3 页。
 
-> 把第 3 页标题改成浅绿色，标题和正文都换一种现有的字体。
+> 把标题的字体颜色改成浅绿色，并且改一下标题和内容的字体，改现在有的字体即可。
 
 | 修改前 | 修改后 |
 | :---: | :---: |
-| <img src="preview/edit-demo-before.jpg" width="400" alt="修改前的第 3 页使用橙红色标题和粗体字"> | <img src="preview/edit-demo-after.jpg" width="400" alt="修改后的第 3 页使用浅绿色标题和更新后的字体"> |
+| <img src="preview/edit-demo-before.jpg" width="380" alt="修改前的第 3 页使用橙红色标题和粗体字"> | <img src="preview/edit-demo-after.jpg" width="380" alt="修改后的第 3 页使用浅绿色标题和更新后的字体"> |
 
-图片截自同一份课件的第 3 页。完整演示从 2:03 开始展示对话修改。
+[完整演示](#完整演示)从 2:03 开始展示对话修改。
 
 ## 课件示例
 
@@ -68,24 +76,28 @@
     <td align="center" width="50%">
       <a href="preview/1-spring/ours-3.jpg"><img src="preview/1-spring/ours-3.jpg" width="380" alt="朱自清《春》第 3 页，用盼春、绘春、赞春梳理课文结构"></a><br>
       <strong>语文 · 朱自清《春》</strong><br>
-      <a href="result/1-春.pdf">PDF 原件</a> · <a href="compare/README.md#朱自清春">逐页对比</a>
+      盼春、绘春、赞春梳理全文结构<br>
+      <a href="result/1-春.pdf">看完整 PDF</a> · <a href="compare/README.md#朱自清春">逐页对比</a>
     </td>
     <td align="center" width="50%">
       <a href="preview/2-sine/ours-4.jpg"><img src="preview/2-sine/ours-4.jpg" width="380" alt="正弦函数第 4 页，用曲线和公式讲解奇偶性"></a><br>
       <strong>数学 · 正弦函数</strong><br>
-      <a href="result/2-数学.pdf">PDF 原件</a> · <a href="compare/README.md#正弦函数">逐页对比</a>
+      用公式和曲线讲解奇偶性<br>
+      <a href="result/2-数学.pdf">看完整 PDF</a> · <a href="compare/README.md#正弦函数">逐页对比</a>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
       <a href="preview/3-force/ours-5.jpg"><img src="preview/3-force/ours-5.jpg" width="380" alt="力学第一课第 5 页，用三扇门讲解力的三要素"></a><br>
       <strong>物理 · 力学第一课</strong><br>
-      <a href="result/3-物理.pdf">PDF 原件</a> · <a href="compare/README.md#力学第一课">逐页对比</a>
+      用三扇门讲解力的三要素<br>
+      <a href="result/3-物理.pdf">看完整 PDF</a> · <a href="compare/README.md#力学第一课">逐页对比</a>
     </td>
     <td align="center" width="50%">
       <a href="preview/4-redis/ours-5.jpg"><img src="preview/4-redis/ours-5.jpg" width="380" alt="Redis 缓存故障第 5 页，热点 Key 过期引发缓存击穿的流程"></a><br>
       <strong>后端 · Redis 缓存故障</strong><br>
-      <a href="result/4-redis.pdf">PDF 原件</a> · <a href="compare/README.md#redis-缓存故障">逐页对比</a>
+      热点 Key 过期引发缓存击穿的流程<br>
+      <a href="result/4-redis.pdf">看完整 PDF</a> · <a href="compare/README.md#redis-缓存故障">逐页对比</a>
     </td>
   </tr>
 </table>
