@@ -66,7 +66,7 @@
 <table>
   <tr>
     <td align="center" width="50%">
-      <a href="preview/1-spring/ours-7.jpg"><img src="preview/1-spring/ours-7.jpg" width="380" alt="朱自清《春》第 7 页「春天像什么？」"></a><br>
+      <a href="preview/1-spring/ours-3.jpg"><img src="preview/1-spring/ours-3.jpg" width="380" alt="朱自清《春》第 3 页，用盼春、绘春、赞春梳理课文结构"></a><br>
       <strong>语文 · 朱自清《春》</strong><br>
       <a href="result/1-春.pdf">PDF 原件</a> · <a href="compare/README.md#朱自清春">逐页对比</a>
     </td>
