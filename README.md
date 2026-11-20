@@ -9,7 +9,7 @@
 <p align="center"><strong>一句话做课件，再一句话改课件。</strong></p>
 
 <p align="center">
-  输入主题，确认大纲，生成整份演示文稿。做完可以用对话修改指定页面，再导出 PPTX 或 PDF。
+  本项目当前垂直于教育领域，输入主题，确认大纲，生成整份演示文稿。做完可以用对话修改指定页面，再导出 PPTX 或 PDF。
 </p>
 
 <p align="center">
