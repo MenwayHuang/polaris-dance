@@ -26,19 +26,26 @@
 
 ## 从主题生成 PPT
 
-可以只给一句主题，也可以指定受众、讲解重点和呈现方式。
-
-**一句主题**
-
-> 给初一学生讲朱自清的《春》
-
-[查看《春》课件（PDF）](result/1-春.pdf)
-
-**完整要求**
-
-> 给高一学生讲一节课：正弦函数 y=sin x 的图像与性质。要讲清楚五点作图法、周期性、奇偶性、单调区间和最值，配合图像来讲
-
-[查看正弦函数课件（PDF）](result/2-数学.pdf)
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <a href="result/1-春.pdf"><img src="preview/1-spring/ours-1.jpg" width="360" alt="《春》课件的水彩山水封面"></a>
+      <p><strong>一句主题</strong></p>
+      <p>给初一学生讲朱自清的《春》</p>
+      <p><a href="result/1-春.pdf">查看《春》课件 PDF ↗</a></p>
+    </td>
+    <td valign="top" width="50%">
+      <a href="result/2-数学.pdf"><img src="preview/2-sine/ours-2.jpg" width="360" alt="正弦函数课件中用曲线演示五点作图法的一页"></a>
+      <p><strong>完整要求</strong></p>
+      <p>给高一学生讲正弦函数，配图讲解五点作图法等知识点。</p>
+      <p><a href="result/2-数学.pdf">查看正弦函数课件 PDF ↗</a></p>
+      <details>
+        <summary>展开原始提示词</summary>
+        <blockquote>给高一学生讲一节课：正弦函数 y=sin x 的图像与性质。要讲清楚五点作图法、周期性、奇偶性、单调区间和最值，配合图像来讲</blockquote>
+      </details>
+    </td>
+  </tr>
+</table>
 
 ## 一句话修改指定页
 
