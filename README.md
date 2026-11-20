@@ -66,24 +66,24 @@
 <table>
   <tr>
     <td align="center" width="50%">
-      <a href="preview/1-spring/ours-2.jpg"><img src="preview/1-spring/ours-2.jpg" width="380" alt="朱自清《春》课件内页"></a><br>
+      <a href="preview/1-spring/ours-7.jpg"><img src="preview/1-spring/ours-7.jpg" width="380" alt="朱自清《春》第 7 页「春天像什么？」"></a><br>
       <strong>语文 · 朱自清《春》</strong><br>
       <a href="result/1-春.pdf">PDF 原件</a> · <a href="compare/README.md#朱自清春">逐页对比</a>
     </td>
     <td align="center" width="50%">
-      <a href="preview/2-sine/ours-3.jpg"><img src="preview/2-sine/ours-3.jpg" width="380" alt="正弦函数课件内页"></a><br>
+      <a href="preview/2-sine/ours-4.jpg"><img src="preview/2-sine/ours-4.jpg" width="380" alt="正弦函数第 4 页，用曲线和公式讲解奇偶性"></a><br>
       <strong>数学 · 正弦函数</strong><br>
       <a href="result/2-数学.pdf">PDF 原件</a> · <a href="compare/README.md#正弦函数">逐页对比</a>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
-      <a href="preview/3-force/ours-3.jpg"><img src="preview/3-force/ours-3.jpg" width="380" alt="力学第一课课件内页"></a><br>
+      <a href="preview/3-force/ours-5.jpg"><img src="preview/3-force/ours-5.jpg" width="380" alt="力学第一课第 5 页，用三扇门讲解力的三要素"></a><br>
       <strong>物理 · 力学第一课</strong><br>
       <a href="result/3-物理.pdf">PDF 原件</a> · <a href="compare/README.md#力学第一课">逐页对比</a>
     </td>
     <td align="center" width="50%">
-      <a href="preview/4-redis/ours-3.jpg"><img src="preview/4-redis/ours-3.jpg" width="380" alt="Redis 缓存故障课件内页"></a><br>
+      <a href="preview/4-redis/ours-5.jpg"><img src="preview/4-redis/ours-5.jpg" width="380" alt="Redis 缓存故障第 5 页，热点 Key 过期引发缓存击穿的流程"></a><br>
       <strong>后端 · Redis 缓存故障</strong><br>
       <a href="result/4-redis.pdf">PDF 原件</a> · <a href="compare/README.md#redis-缓存故障">逐页对比</a>
     </td>
