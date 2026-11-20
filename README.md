@@ -122,6 +122,16 @@ https://github.com/user-attachments/assets/b6f2a6b3-5b67-4841-a0b2-c14a612d7c92
 
 </details>
 
+## 微信交流群
+
+本项目仍在迭代中，欢迎加入交流群提意见，欢迎有想法的朋友们一起合作
+
+<p align="center">
+  <a href="assets/wechat-group-qr.png">
+    <img src="assets/wechat-group-qr.png" width="280" alt="Polaris Dance 微信交流群二维码">
+  </a>
+</p>
+
 ---
 
 本仓库用于展示 Polaris Dance 的课件成果和同题对比。应用请通过[在线演示](https://polarisdance.online/)体验。
